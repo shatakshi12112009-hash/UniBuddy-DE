@@ -47,3 +47,12 @@ Ideas, suggestions and improvements are welcome!
 ## 📄 License
 
 MIT License
+
+
+⸻
+
+Author
+
+Created and maintained by Shatakshi Pandey.
+
+Built with Python to help students navigate university life in Germany.
